@@ -1,18 +1,15 @@
 ```js
-import Front-End Website Developer from 'Pakistan';
+Front-End Website Developer from Pakistan
 
-class Bio extends Front-End Website Developer {
-  name     = 'Haris';
-  title    = 'Website Developer';
-  location = 'Islamabad, Pakistan';
-  availability = "Available to hire!!"
-}
+  Name     = Haris
+  Title    = Website Developer
+  Location = Islamabad, Pakistan.
+  Availability = Available to hire!
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP', 'Python'];
-  databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['React', 'Express Js', 'Angular'];
-}
+Skills extends Website Developer {
+  Languages  = 'JavaScript', 'PHP', 'Python' 'HTML', 'CSS'
+  Databases  = 'MySQL', 'MongoDB'
+  Frameworks = 'React', 'Express Js', 'Angular'
 ```
 
 <hr>
