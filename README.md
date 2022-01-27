@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haris</h1>
+<h1 align="center">Hey! I'm Haris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=harisdev-netizen.visitor-badge)
@@ -9,7 +9,7 @@
 </p>
 
 ---
-### Languages and Tools  
+### Languages & Tools  
 
 <p align="left"> 
   
@@ -26,7 +26,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> </p>
 
   ---
-  ### Github stats
+  ### GitHub stats
 
 <!-- <details>  -->
 <!--   <summary>💻 GitHub Profile Stats</summary> -->
@@ -40,12 +40,13 @@
   
   ---
   
+  ### GitHub streaks
 <p align="center">
 <a href="https://github.com/harisdev-netizen">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harisdev-netizen&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt='stats' />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harisdev-netizen&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt='stats'/>
 </a>
   
-
+  ---
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/haris-khan-03a799217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haris-khan-03a799217/" height="20" width="30" /></a>
