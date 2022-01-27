@@ -36,6 +36,14 @@
   
   ---
   
+    ---
+<a href="https://github.com/waasiq">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=waasiq&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24" /></a>
+<a href="https://github.com/waasiq/">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waasiq&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&" /></a>
+  
+  ---
+  
 <p align="center">
 <a href="https://github.com/harisdev-netizen">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=harisdev-netizen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt='stats' />
