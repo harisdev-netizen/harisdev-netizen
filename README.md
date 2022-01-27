@@ -29,6 +29,7 @@
 <!--   <summary>💻 GitHub Profile Stats</summary> -->
   <br/>
     <a><img alt="Haris Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=harisdev-netizen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    
   <a><img alt="Haris Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=harisdev-netizen&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
@@ -37,7 +38,7 @@
 <a><img alt="Haris Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harisdev-netizen&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/haris-khan-03a799217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haris-khan-03a799217/" height="20" width="30" /></a>
 <a href="https://www.instagram.com/harisdev_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harisdev_/" height="20" width="30" /></a>
