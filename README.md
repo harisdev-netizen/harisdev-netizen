@@ -8,7 +8,7 @@
 <a href="https://github.com/harisdev-netizen/harisdev-netizen"><img alt="followers" title="Follow me on Github" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" height="320px"/></a>
 </p>
 
-
+---
 ### Languages and Tools  
 
 <p align="left"> 
@@ -25,20 +25,26 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> </p>
 
+  ---
+  ### Github stats
 
+<!-- <details>  -->
+<!--   <summary>💻 GitHub Profile Stats</summary> -->
+  <br/>
+    <a><img alt="Haris Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=harisdev-netizen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    
+  <a><img alt="Haris Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=harisdev-netizen&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <br/>
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+<!-- </details> -->
   
   ---
-<a href="https://github.com/harisdev-netizen">
-  <img height="155px" src="https://github-readme-stats.vercel.app/api?username=harisdev-netizen&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24" /></a>
-  
-<a href="https://github.com/harisdev-netizen">
-  <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisdev-netizen&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&" /></a>
   
 <p align="center">
 <a href="https://github.com/harisdev-netizen">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=harisdev-netizen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt='stats' />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harisdev-netizen&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt='stats' />
 </a>
-
+  
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
