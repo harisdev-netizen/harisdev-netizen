@@ -26,21 +26,12 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> </p>
 
 
-
-  ---
-<a href="https://github.com/harisdev-netizen">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=harisdev-netizen&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24" /></a>
-  
-<a href="https://github.com/harisdev-netizen">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisdev-netizen&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&" /></a>
-  
-  ---
   
     ---
-<a href="https://github.com/waasiq">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=waasiq&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24" /></a>
-<a href="https://github.com/waasiq/">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waasiq&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&" /></a>
+<a href="https://github.com/harisdev-netizen">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=harisdev-netizen&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24" /></a>
+<a href="https://github.com/harisdev-netizen">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisdev-netizen&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&" /></a>
   
   ---
   
