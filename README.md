@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End Developer</h3>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=harisdev-netizen.visitor-badge)
-<a href="https://github.com/harisdev-netizen"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/haris-netizen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
+<a href="https://github.com/harisdev-netizen"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/harisdev-netizen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
 
 <a href="https://github.com/harisdev-netizen/harisdev-netizen"><img alt="followers" title="Follow me on Github" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" height="320px"/></a>  
 
