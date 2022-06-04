@@ -1,10 +1,6 @@
 <h1 align="center">Hey! I'm Haris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
-<p align="left">
-<a href="https://github.com/harisdev-netizen/harisdev-netizen"><img alt="followers" title="Follow me on Github" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" height="320px"/></a>
-</p>
-
 ---
 ### Languages & Tools  
 
