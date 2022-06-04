@@ -39,8 +39,6 @@
 <!-- </details> -->
   
   ---
-  
-  ---
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/haris-khan-03a799217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haris-khan-03a799217/" height="20" width="30" /></a>
