@@ -4,7 +4,7 @@
 -->
 <p>&nbsp;</p>
 
-## 📚 About Me:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 <a href="https://github.com/harisdev-netizen"><img align="right" width="350" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/codingsvg.svg"></a>
 
