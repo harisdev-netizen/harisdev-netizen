@@ -1,8 +1,9 @@
+<!-- # Haris&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<!--
 **harisdev-netizen/harisdev-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
--->
-<p>&nbsp;</p>
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<p>&nbsp;</p> -->
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
@@ -40,7 +41,7 @@
 
 <p>&nbsp;</p>
 
-## ☎️ Contact Me:
+## ☎️ Contact Me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <p align="center">
 <a href = "mharispk321@@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
 <a href = https://github.com/harisdev-netizen><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
