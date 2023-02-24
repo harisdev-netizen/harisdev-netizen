@@ -11,7 +11,7 @@
 - 👨‍💻 I am a Developer Intern at <a href = "https://uptek.com"> Uptek</a>. [FrontEnd]
 - 🎓 I am third year Computer Science Student at University of Engineering & Technology, Pakistan.
 - 📙 I am interested in Full Stack Web Development, Cyber Security and Artificial Intelligence.
-- 🎯 I'm currently learning how to build awesome web applications with React & expanding my knowledge of Artificial Intelligence.
+- 🎯 I'm currently learning how to build awesome web applications, expanding my knowledge of Cloud Computing & Artificial Intelligence.
 - 📧 You can reach me at: <a href= "mharispk321@gmail.com"> Here! </a>
 
 <p>&nbsp;</p>
