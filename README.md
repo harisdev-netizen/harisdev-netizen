@@ -9,11 +9,12 @@
 
 <a href="https://github.com/harisdev-netizen"><img align="right" width="350" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/codingsvg.svg"></a>
 
-- 👨‍💻 I am a Developer Intern at <a href = "https://uptek.com"> Uptek</a>. [FrontEnd]
-- 🎓 I am third year Computer Science Student at University of Engineering & Technology, Pakistan.
-- 📙 I am interested in Full Stack Web Development, Cyber Security and Artificial Intelligence.
-- 🎯 I'm currently learning how to build awesome web applications, expanding my knowledge of Cloud Computing & Artificial Intelligence.
-- 📧 You can reach me at: <a href= "mharispk321@gmail.com"> Here! </a>
+👨‍💻 I am a Developer Intern at <a href = "https://uptek.com"> Uptek</a>. [FrontEnd]
+🎓 I am third year Computer Science Student at University of Engineering & Technology, Pakistan.
+📙 I am interested in Full Stack Web Development, Cyber Security and Artificial Intelligence.
+🎯 I'm currently learning how to build awesome web applications, expanding my knowledge of Cloud Computing & Artificial Intelligence.
+📝 I have a regular writing habit, and my preferred platform is <a href="https://hashnode.com/@harisdev-netizen"> Hashnode </a>. 
+📧 You can reach me at: <a href= "mharispk321@gmail.com"> Here! </a>
 
 <p>&nbsp;</p>
 
