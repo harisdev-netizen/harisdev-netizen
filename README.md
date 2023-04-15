@@ -7,7 +7,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-<a href="https://github.com/harisdev-netizen"><img align="right" width="382" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/codingsvg.svg"></a>
+<a href="https://github.com/harisdev-netizen"><img align="right" width="382" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/gif-new.gif"></a>
 
 - 👨‍💻 I am a Developer Intern at <a href = "https://uptek.com"> Uptek</a>. [FrontEnd]
 - 🎓 I am third year Computer Science Student at University of Engineering & Technology, Pakistan.
