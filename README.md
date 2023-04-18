@@ -5,7 +5,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <p>&nbsp;</p> -->
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"/> About Me:
 
 <a href="https://github.com/harisdev-netizen"><img align="right" width="370" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/gif-new.gif"></a>
 
