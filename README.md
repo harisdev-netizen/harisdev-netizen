@@ -64,13 +64,10 @@
 <a href="https://github.com/harisdev-netizen/">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=harisdev-netizen&theme=dracula&hide_border=true&background=355C7D00&stroke=FF6E96&dates=DDDDDD" /></a>
   
-  ---
-  
   <!--- 🏆 TROPHIES
 <a href="https://github.com/harisdev-netizen/">
   <img width = "100%"src="https://github-profile-trophy.vercel.app/?username=harisdev-netizen&theme=nord&no-bg=true&row=7&no-frame=true" /></a>
   --->
-  
 <p>&nbsp;</p>
   
   ## 🚀 My Projects:
