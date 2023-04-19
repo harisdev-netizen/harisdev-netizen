@@ -71,12 +71,14 @@
   <img width = "100%"src="https://github-profile-trophy.vercel.app/?username=harisdev-netizen&theme=nord&no-bg=true&row=7&no-frame=true" /></a>
   --->
   
-<!--   <p>&nbsp;</p>
+<p>&nbsp;</p>
   
   ## 🚀 My Projects:
 <p align="center">
-  <a href="https://github.com/SABERGLOW/Deja-Vu">
+  <a href="https://github.com/harisdev-netizen/connect">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Deja-Vu&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  
+  <!--
   
   <a href="https://github.com/SABERGLOW/facebook-clone-react">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=facebook-clone-react&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
