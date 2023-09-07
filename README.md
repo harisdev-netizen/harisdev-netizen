@@ -42,16 +42,6 @@
 
 <p>&nbsp;</p>
 
-## ☎️ Contact Me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<p align="center">
-<a href = "mharispk321@@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
-<a href = https://github.com/harisdev-netizen><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
-<a href = https://www.linkedin.com/in/hariskhan00/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
-<a href = https://www.facebook.com/oyehoyeharis/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
-<a href = https://www.instagram.com/the_harrii/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='40'></a>
-
-<p>&nbsp;</p>
-
 ## 📈 My Github Stats:     <a href="https://github.com/harisdev-netizen"> <img src="https://komarev.com/ghpvc/?username=harisdev-netizen&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <a href="https://github.com/harisdev-netizen" >
   <img height="160px" src="https://github-readme-stats.zohan.tech/api?username=harisdev-netizen&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,C06C84,6C5B7B,355C7D" /></a>
@@ -63,9 +53,4 @@
 <p align="center">
 <a href="https://github.com/harisdev-netizen/">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=harisdev-netizen&theme=dracula&hide_border=true&background=355C7D00&stroke=FF6E96&dates=DDDDDD" /></a>
-  
-  <!--- 🏆 TROPHIES
-<a href="https://github.com/harisdev-netizen/">
-  <img width = "100%"src="https://github-profile-trophy.vercel.app/?username=harisdev-netizen&theme=nord&no-bg=true&row=7&no-frame=true" /></a>
-  --->
 <p>&nbsp;</p>
