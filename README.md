@@ -18,7 +18,7 @@
 
 <p>&nbsp;</p>
 
-## 📈 My Github Stats:     <a href="https://github.com/harisdev-netizen"> <img src="https://komarev.com/ghpvc/?username=harisdev-netizen&label=Profile+Views&color=2e8b57&style=flat" /></a>
+## 📈 Stats:
 <a href="https://github.com/harisdev-netizen" >
   <img height="160px" src="https://github-readme-stats.zohan.tech/api?username=harisdev-netizen&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,C06C84,6C5B7B,355C7D" /></a>
 <a href="https://github.com/harisdev-netizen/" >
