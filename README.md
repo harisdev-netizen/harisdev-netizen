@@ -16,7 +16,7 @@
 - 📝 I have a weekly writing habit at <a href="https://hashnode.com/@harisdev-netizen"> Hashnode</a>. 
 - 📧 You can reach me at: <a href= "mharispk321@gmail.com"> Here! </a>
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p>
 
 ## 📈 Stats:
 <a href="https://github.com/harisdev-netizen" >
@@ -29,4 +29,4 @@
 <p align="center">
 <a href="https://github.com/harisdev-netizen/">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=harisdev-netizen&theme=dracula&hide_border=true&background=355C7D00&stroke=FF6E96&dates=DDDDDD" /></a>
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
