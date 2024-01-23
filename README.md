@@ -9,7 +9,7 @@
 
 <a href="https://github.com/harisdev-netizen"><img align="right" width="370" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/gif-new.gif"></a>
 
-- 👨‍💻 I am a Frontend Intern at <a href = "https://uptek.com"> Uptek</a>. [FrontEnd]
+- 👨‍💻 I am a Frontend Intern at <a href = "https://uptek.com"> Uptek</a>.
 - 🎓 I am fourth year Computer Science Student at University of Engineering & Technology, Pakistan.
 - 📙 I am interested in Full Stack Web Development, Cyber Security and Artificial Intelligence.
 - 🎯 I am currently learning how to build awesome web applications, expanding my knowledge of Cloud Computing & Artificial Intelligence.
