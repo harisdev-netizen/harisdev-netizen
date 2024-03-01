@@ -13,7 +13,7 @@
 - 🎓 I am fourth year Computer Science Student at University of Engineering & Technology, Pakistan.
 - 📙 I am interested in Full Stack Web Development, Cyber Security and Artificial Intelligence.
 - 🎯 I am currently learning how to build awesome web applications, expanding my knowledge of Cloud Computing & Artificial Intelligence.
-- 📝 I have a weekly writing habit at <a href="https://hashnode.com/@harisdev-netizen"> Hashnode</a>. 
+<!-- - 📝 I have a weekly writing habit at <a href="https://hashnode.com/@harisdev-netizen"> Hashnode</a>. --> 
 - 📧 You can reach me at: <a href= "mharispk321@gmail.com"> Here! </a>
 
 <!-- <p>&nbsp;</p>
