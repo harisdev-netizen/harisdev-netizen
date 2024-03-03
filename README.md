@@ -5,7 +5,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <p>&nbsp;</p> -->
 
-<!--
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"/> About Me:
 
@@ -15,11 +14,11 @@
 - 🎓 I am fourth year Computer Science Student at University of Engineering & Technology, Pakistan.
 - 📙 I am interested in Full Stack Web Development, Cyber Security and Artificial Intelligence.
 - 🎯 I am currently learning how to build awesome web applications, expanding my knowledge of Cloud Computing & Artificial Intelligence.
-<!-- - 📝 I have a weekly writing habit at <a href="https://hashnode.com/@harisdev-netizen"> Hashnode</a>. 
+- 📝 I have a weekly writing habit at <a href="https://hashnode.com/@harisdev-netizen"> Hashnode</a>. 
 - 📧 You can reach me at: <a href= "mharispk321@gmail.com"> Here! </a>
---> 
 
-<!-- <p>&nbsp;</p>
+
+ <p>&nbsp;</p>
 
 ## 📈 Stats:
 <a href="https://github.com/harisdev-netizen" >
@@ -32,4 +31,4 @@
 <p align="center">
 <a href="https://github.com/harisdev-netizen/">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=harisdev-netizen&theme=dracula&hide_border=true&background=355C7D00&stroke=FF6E96&dates=DDDDDD" /></a>
-<p>&nbsp;</p> -->
+<p>&nbsp;</p>
