@@ -28,7 +28,6 @@ Muhammad Haris
 <!--
 [akshaysaini.in](https://akshaysaini.in/)
 -->
-<!--
 <img src="https://raw.githubusercontent.com/harisdev-netizen/harisdev-netizen/output/snake.svg" alt="Snake animation" />
+
 ###
--->
