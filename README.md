@@ -1,76 +1,34 @@
-<!-- # Haris&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+### HELLO WORLD, <img src="https://komarev.com/ghpvc/?username=harisdev-netizen&&style=flat-square" align="center" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/webjin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/oyehoyeharis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/the_harrii" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
+<br>
 
-**harisdev-netizen/harisdev-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+I am a Software Engineer by profession and a web developer by passion. <br> 
+Whether it's crafting sleek designs or diving deep into the intricacies of code, I find joy in every pixel and character.
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<p>&nbsp;</p> -->
-
-
-
-<!--
-# Hello World,
-
-<a href="https://youtube.com/akshaymarch7">
-  <img align="left" alt="Akshay Saini - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
-</a>
-<a href="https://linkedin.com/in/akshaymarch7">
-  <img align="left" alt="Akshay Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<a href="https://instagram.com/akshaymarch7">
-  <img align="left" alt="Akshay Saini - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
-<a href="https://twitter.com/akshaymarch7">
-  <img align="left" alt="Akshay Saini - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-</a>
-<a href="https://facebook.com/akshaymarch7">
-  <img align="left" alt="Akshay Saini - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
-</a>
-<br />
-<br />
-
-I'm an Engineer by profession and a Teacher by passion.  
-I share my knowledge by creating Coding & Interview preparation videos.  
-Check out my Youtube channel- [@akshaymarch7](https://www.youtube.com/akshaymarch7)
-
-I also speak at colleges and technical conferences. I'm just an invite away - akshaysaini.in@gmail.com
+Want to collaborate, learn, or just chat? Feel free to reach out to me at - mharispk321@gmail.com.
 
 Technologies:
-- Javascript, Fusion, React, Angular, Vue, Weex, jQuery, PWA, AMP
-- Node, Java, Ruby on Rails
+- Javascript, C& C++, React, PHP, jQuery
 
 Also interested in:
-- Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress  
+- Machine Learning, Blogging, Wordpress, Cyber Security  
 
 Cheers,  
-Akshay Saini  
+Muhammad Haris
+<!--
 [akshaysaini.in](https://akshaysaini.in/)
 -->
-
-
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"/> About Me:
-
-<a href="https://github.com/harisdev-netizen"><img align="right" width="370" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/gif-new.gif"></a>
-
-- 👨‍💻 I am a Frontend Intern at <a href = "https://uptek.com"> Uptek</a>.
-- 🎓 I am fourth year Computer Science Student at University of Engineering & Technology, Pakistan.
-- 📙 I am interested in Full Stack Web Development, Cyber Security and Artificial Intelligence.
-- 🎯 I am currently learning how to build awesome web applications, expanding my knowledge of Cloud Computing & Artificial Intelligence.
-- 📝 I have a weekly writing habit at <a href="https://hashnode.com/@harisdev-netizen"> Hashnode</a>. 
-- 📧 You can reach me at: <a href= "mharispk321@gmail.com"> Here! </a>
-
-
- <p>&nbsp;</p>
-
-## 📈 Stats:
-<a href="https://github.com/harisdev-netizen" >
-  <img height="160px" src="https://github-readme-stats.zohan.tech/api?username=harisdev-netizen&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,C06C84,6C5B7B,355C7D" /></a>
-<a href="https://github.com/harisdev-netizen/" >
-  <img height="160px" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=harisdev-netizen&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,355C7D,6C5B7B,C06C84" /></a>
-  
-  ---
-  
-<p align="center">
-<a href="https://github.com/harisdev-netizen/">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=harisdev-netizen&theme=dracula&hide_border=true&background=355C7D00&stroke=FF6E96&dates=DDDDDD" /></a>
-<p>&nbsp;</p>
+<!--
+<img src="https://raw.githubusercontent.com/harisdev-netizen/harisdev-netizen/output/snake.svg" alt="Snake animation" />
+###
+-->
