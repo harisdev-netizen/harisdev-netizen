@@ -18,7 +18,7 @@ Whether it's crafting sleek designs or diving deep into the intricacies of code,
 Want to collaborate, learn, or just chat? Feel free to reach out to me at - mharispk321@gmail.com.
 
 Technologies:
-- Javascript, C& C++, React, PHP, jQuery
+- Javascript, C & C++, React, PHP, jQuery
 
 Also interested in:
 - Machine Learning, Blogging, Wordpress, Cyber Security  
