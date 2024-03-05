@@ -15,13 +15,15 @@
 I am a Software Engineer by profession and a web developer by passion. <br> 
 Whether it's crafting sleek designs or diving deep into the intricacies of code, I find joy in every pixel and character.
 
-Want to collaborate, learn, or just chat? Feel free to reach out to me at - mharispk321@gmail.com.
+Fun fact: I use tabs over spaces 
 
 Technologies:
 - Javascript, C & C++, React, PHP, jQuery
 
 Also interested in:
 - Machine Learning, Blogging, Wordpress, Cyber Security  
+
+Want to collaborate, learn, or just chat? Feel free to reach out to me at - mharispk321@gmail.com. 
 
 Cheers,  
 Muhammad Haris
