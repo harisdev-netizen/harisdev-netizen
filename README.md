@@ -23,7 +23,7 @@ Technologies:
 Also interested in:
 - Machine Learning, Blogging, Wordpress, Cyber Security  
 
-Want to collaborate, learn, or just chat? Feel free to reach out to me at - mharispk321@gmail.com. 
+Want to collaborate, learn, or just chat? Feel free to reach out to me. <!-- mharispk321@gmail.com. -->
 
 Cheers,  
 Muhammad Haris
