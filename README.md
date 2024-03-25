@@ -15,13 +15,13 @@
 I am a Software Engineer by profession and a web developer by passion. <br> 
 Whether it's crafting sleek designs or diving deep into the intricacies of code, I find joy in every pixel and character.
 
-Fun fact: I use tabs over spaces 
-
 Technologies:
 - Javascript, C & C++, React, PHP, jQuery
 
 Also interested in:
-- Machine Learning, Blogging, Wordpress, Cyber Security  
+- Machine Learning, Blogging, Wordpress, Cyber Security
+
+Fun fact: I use tabs over spaces 
 
 Want to collaborate, learn, or just chat? Feel free to reach out to me. <!-- mharispk321@gmail.com. -->
 
