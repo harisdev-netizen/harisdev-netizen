@@ -21,9 +21,7 @@ Technologies:
 Also interested in:
 - Machine Learning, Blogging, Wordpress, Cyber Security
 
-<!--
-Fun fact: I use tabs over spaces 
--->
+Fun fact: I use tabs over spaces
 
 Want to collaborate, learn, or just chat? Feel free to reach out to me. <!-- mharispk321@gmail.com. -->
 
