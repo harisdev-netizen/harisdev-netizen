@@ -15,7 +15,7 @@
 I am a Software Engineer by profession and a web developer by passion. Whether it's crafting sleek designs or diving deep into the intricacies of code, I find joy in every pixel and character.
 
 Technologies:
-- Javascript, C & C++, React, PHP, jQuery
+- HTML, CSS, Javascript, C & C++
 
 Also interested in:
 - Machine Learning, Blogging, Wordpress, Cyber Security
