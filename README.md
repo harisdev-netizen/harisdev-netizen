@@ -12,7 +12,7 @@
 </div>
 <br> -->
 
-I am a Software Engineer by profession and a web developer by passion. Whether it's crafting sleek designs or diving deep into the intricacies of code, I find joy in every pixel and character.
+I am a Computer Science graduate by profession and a Web Developer by choice. Whether it's crafting sleek designs or diving deep into the intricacies of code, I find joy in every pixel and character.
 
 Technologies:
 - HTML, CSS, SCSS, Javascript, C & C++
