@@ -15,7 +15,7 @@
 I am a Computer Science graduate by profession and a Web Developer by choice. Whether it's crafting sleek designs or diving deep into the intricacies of code, I find joy in every pixel and character.
 
 Technologies:
-- HTML, CSS, SCSS, Javascript, C & C++
+- HTML, CSS, SCSS, Javascript, Shopify Theme Development (Liquid + Schema)
 
 Also interested in:
 - Machine Learning, Blogging, Shopify Development, Wordpress, Cyber Security
