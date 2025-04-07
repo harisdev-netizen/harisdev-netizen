@@ -17,6 +17,10 @@ I am a Computer Science graduate by profession and a Web Developer by choice. Wh
 Technologies:
 - HTML, CSS, SCSS, Javascript, Shopify Theme Development (Liquid + Schema)
 
+<!--
+- I use daily: `.html`, `.css`, `.scss`, `.js`, `.liquid`, '.json'
+-->
+
 Also interested in:
 - Machine Learning, Blogging, Shopify Development, Wordpress, Cyber Security
 
@@ -32,5 +36,5 @@ Muhammad Haris
 <!--
 <img src="https://raw.githubusercontent.com/harisdev-netizen/harisdev-netizen/output/snake.svg" alt="Snake animation" />
 
-###
+###    
 -->
