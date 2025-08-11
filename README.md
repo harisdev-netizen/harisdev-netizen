@@ -17,12 +17,16 @@ I am a Computer Science graduate by profession and a Web Developer by choice. Wh
 Technologies:
 - HTML, CSS, SCSS, Javascript, Shopify Theme Development (Liquid + Schema)
 
-<!--
-- I use daily: `.html`, `.css`, `.scss`, `.js`, `.liquid`, '.json'
--->
+CMS & Builders:
+- Shopify Plus + WordPress Elementor + Squarespace, Zoho CRM
+
+Cloud Platforms & Hosting:
+- AWS, Vercel, Netlify
 
 Also interested in:
 - Machine Learning, Blogging, Shopify Development, Wordpress, Cyber Security
+
+I daily use: `.html`, `.css`, `.scss`, `.js`, `.liquid`, `.json`
 
 Fun fact: I use tabs over spaces
 
