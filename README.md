@@ -18,7 +18,7 @@ Technologies:
 - HTML, CSS, SCSS, Javascript, Shopify Theme Development (Liquid + Schema)
 
 CMS & Builders:
-- Shopify Plus + WordPress Elementor + Squarespace, Zoho CRM
+- Shopify Plus, WordPress Elementor, Squarespace, Zoho CRM
 
 Cloud Platforms & Hosting:
 - AWS, Vercel, Netlify
